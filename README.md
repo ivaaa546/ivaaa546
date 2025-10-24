@@ -7,10 +7,6 @@
 <h4 align="center"></h4>
 <br>
 
-
-## 🔥 Streak Stats
-
-
 ## 🛠️ Mis habilidades
 
 ### 👉 Lenguajes de programación

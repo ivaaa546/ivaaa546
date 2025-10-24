@@ -11,9 +11,9 @@
 ## 🔥 Streak Stats
 
 
-## 🛠️ My Skills
+## 🛠️ Mis habilidades
 
-### 👉 Programming languages
+### 👉 Lenguajes de programación
 
 <p align="left"> 
   &emsp; 

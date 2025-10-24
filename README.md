@@ -61,7 +61,7 @@
  </p>
   
 
- ### 👉 Software & Tools
+ ### 👉Tecnologías y Herramientas
  
 <p>
   &emsp;
@@ -86,11 +86,6 @@
 </p>
 
 <br/>
-
-## 📊 Github Stats (Expand to View) 
-
-
-
 
 
 

@@ -11,9 +11,6 @@ Backend Developer • Node.js • TypeScript • IA • Arquitectura de Software
 Construyendo aplicaciones escalables con Node.js, Next.js, PostgreSQL y tecnologías de Inteligencia Artificial.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=flat" alt="Visitas"/>
-</p>
 
 ---
 

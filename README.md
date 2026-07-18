@@ -31,7 +31,7 @@ Construyo APIs, plataformas SaaS y sistemas impulsados por Inteligencia Artifici
 
 </p>
 
-<br>
+
 
 ### ⚙️ Backend
 
@@ -46,7 +46,7 @@ Construyo APIs, plataformas SaaS y sistemas impulsados por Inteligencia Artifici
 
 </p>
 
-<br>
+
 
 ### 🎨 Frontend
 
@@ -58,7 +58,6 @@ Construyo APIs, plataformas SaaS y sistemas impulsados por Inteligencia Artifici
 
 </p>
 
-<br>
 
 ### 🗄️ Bases de Datos
 
@@ -71,7 +70,7 @@ Construyo APIs, plataformas SaaS y sistemas impulsados por Inteligencia Artifici
 
 </p>
 
-<br>
+
 
 ### ☁️ DevOps & Herramientas
 
@@ -85,7 +84,7 @@ Construyo APIs, plataformas SaaS y sistemas impulsados por Inteligencia Artifici
 
 </p>
 
-<br>
+
 
 ### 🤖 AI Engineering
 

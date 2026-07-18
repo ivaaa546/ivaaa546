@@ -4,9 +4,8 @@
 </h1>
 
 <p align="center">
-Construyo APIs, plataformas SaaS y sistemas impulsados por Inteligencia Artificial.
+Construyo APIs, plataformas SaaS, automatizaciones y sistemas impulsados por Inteligencia Artificial.
 </p>
-
 ---
 
 # 🚀 Sobre mí

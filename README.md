@@ -13,7 +13,7 @@ Construyo APIs, plataformas SaaS y sistemas impulsados por Inteligencia Artifici
 
 - 💻 Backend Developer especializado en **Node.js** y **TypeScript**.
 - 🤖 AI Engineering: **Agents, MCPs, Skills, RAG y Harness Engineering**.
-- 🏗️ Diseño arquitecturas escalables y desarrollo soluciones orientadas a especificaciones (*Spec-Driven Development*).
+- 🏗️ Diseño arquitecturas escalables
 
 ---
 

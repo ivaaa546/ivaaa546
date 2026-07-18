@@ -1,22 +1,20 @@
 <h1 align="center">
-  👋 Hola, soy Iván Alex
+  👋 Hola, soy Iván
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <h3 align="center">
-Backend Developer • Node.js • TypeScript • IA • Arquitectura de Software
+ Developer • Node.js • TypeScript • IA • Arquitectura de Software
 </h3>
 
 <p align="center">
-Construyendo aplicaciones escalables con Node.js, Next.js, PostgreSQL y tecnologías de Inteligencia Artificial.
+Construyendo aplicaciones escalables.
 </p>
 
 
 ---
 
 # 🚀 Sobre mí
-
-- 💻 Desarrollador Backend especializado en **Node.js** y **TypeScript**.
 - ⚡ Desarrollo APIs REST, aplicaciones web y sistemas escalables.
 - 🤖 Interesado en Inteligencia Artificial, Automatización y Agentes IA.
 - 🏗️ Apasionado por la Arquitectura de Software y el Spec-Driven Development.

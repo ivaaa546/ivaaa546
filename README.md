@@ -1,19 +1,21 @@
 <h1 align="center">
-  Hola, soy Iván
+  👋 Hola, soy Iván
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-Construyendo aplicaciones escalables.
+Construyo APIs, plataformas SaaS y sistemas impulsados por Inteligencia Artificial.
 </p>
-
 
 ---
 
 # 🚀 Sobre mí
-- ⚡ Desarrollo APIs REST, aplicaciones web y sistemas escalables.
-- 🤖 Interesado en Inteligencia Artificial, Automatización y Agentes IA.
-- 🏗️ Apasionado por la Arquitectura de Software y el Spec-Driven Development.
+
+- 💻 Backend Developer especializado en **Node.js** y **TypeScript**.
+- 🤖 AI Engineering: **Agents, MCPs, Skills, RAG y Harness Engineering**.
+- 🏗️ Diseño arquitecturas escalables y desarrollo soluciones orientadas a especificaciones (*Spec-Driven Development*).
+
+---
 
 # 🛠️ Stack Tecnológico
 
@@ -29,6 +31,8 @@ Construyendo aplicaciones escalables.
 
 </p>
 
+<br>
+
 ### ⚙️ Backend
 
 <p>
@@ -42,6 +46,8 @@ Construyendo aplicaciones escalables.
 
 </p>
 
+<br>
+
 ### 🎨 Frontend
 
 <p>
@@ -51,6 +57,8 @@ Construyendo aplicaciones escalables.
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 </p>
+
+<br>
 
 ### 🗄️ Bases de Datos
 
@@ -62,6 +70,8 @@ Construyendo aplicaciones escalables.
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 </p>
+
+<br>
 
 ### ☁️ DevOps & Herramientas
 
@@ -75,21 +85,51 @@ Construyendo aplicaciones escalables.
 
 </p>
 
+<br>
+
 ### 🤖 AI Engineering
 
 <p>
 
+<img src="https://img.shields.io/badge/Agents-059669?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCPs-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Skills-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Harness_Engineering-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agents-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
 
 </p>
 
+---
+
+# 🚀 Proyectos Destacados
+
+### 📄 Spec Kit
+
+Framework para **Spec-Driven Development** orientado a agentes de IA y generación estructurada de software.
+
+**Tecnologías:** Node.js · TypeScript · AI Agents
+
+---
+
+### 🛒 Go Veny
+
+Plataforma SaaS enfocada en comercio electrónico y gestión de negocios.
+
+**Tecnologías:** Next.js · Prisma · PostgreSQL
+
+---
+
+### 🤖 CRM Inteligente
+
+Sistema CRM con automatización mediante IA, WhatsApp y agentes inteligentes.
+
+**Tecnologías:** Node.js · IA · Automatización
+
+---
+
 # 📫 Contacto
 
-<p align="center">
+<p>
 
 <a href="https://github.com/TU_USUARIO">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
